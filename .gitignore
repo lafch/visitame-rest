@@ -1,0 +1,12 @@
+visitame-dominio/target
+visitame-rest/target
+visitame-rest-ear/target
+visitame-dominio/.settings
+visitame-rest/.settings
+visitame-rest-ear/.settings
+.project
+.settings
+target/
+/.project
+
+
